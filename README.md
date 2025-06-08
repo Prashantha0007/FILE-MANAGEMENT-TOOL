@@ -92,3 +92,6 @@ I now feel more confident in working with C++ file operations and in applying th
 Task Status:
 
 This internship task has been successfully completed. The code was tested for correctness and submitted as per CodTech's guidelines. The GitHub repository includes all relevant files, including source code and documentation.
+
+Output Screen
+![Image](https://github.com/user-attachments/assets/71ad00b7-4425-48e7-a55b-11a5d9970113)
